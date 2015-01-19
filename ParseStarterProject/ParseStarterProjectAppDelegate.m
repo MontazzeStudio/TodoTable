@@ -1,5 +1,7 @@
 
-#import "Parse/Parse.h"
+#import <Parse/Parse.h>
+#import <ParseUI/ParseUI.h>
+
 #import "ParseStarterProjectAppDelegate.h"
 #import "MyTableController.h"
 

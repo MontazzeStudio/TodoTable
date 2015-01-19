@@ -7,9 +7,11 @@
 
 #import "MyTableController.h"
 
+#import <Parse/Parse.h>
+
 @implementation MyTableController
 
-- (id)initWithStyle:(UITableViewStyle)style
+- (instancetype)initWithStyle:(UITableViewStyle)style
 {
     self = [super initWithStyle:style];
     if (self) {
@@ -214,6 +216,5 @@
 {
     [super tableView:tableView didSelectRowAtIndexPath:indexPath];
 }
-
 
 @end
