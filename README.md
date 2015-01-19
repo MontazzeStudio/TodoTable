@@ -8,8 +8,13 @@ View the [screencast here on Youtube](http://www.youtube.com/watch?v=4SKugJO74BA
 How to Run
 ----------
 
-1. Clone the repository and open the Xcode project.
-2. Add your Parse application id and client key in `ParseStarterProjectAppDelegate.m`
+1. Clone the repository
+2. Install all project dependencies from [CocoaPods](http://cocoapods.org/#install) by running this script:
+```
+pod install
+```
+3. Open the Xcode workspace - `TodoTable.xcworkspace`
+4. Add your Parse application id and client key in `ParseStarterProjectAppDelegate.m`
 
 
 Learn More
