@@ -8,3 +8,7 @@
 *.swp
 xcuserdata
 
+# Cocoapods
+Pods
+Podfile.lock
+TodoTable.xcworkspace
