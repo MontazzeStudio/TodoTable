@@ -1,5 +1,7 @@
-Todo Table
+[Archive] Todo Table
 ==========
+
+**Note:** *This repository is not under active development. You can learn more about using `PFQueryTableViewController` by visiting the [ParseUI-iOS](https://github.com/ParsePlatform/ParseUI-iOS) repository.*
 
 This is an Xcode project that illustrates a simple example of using `PFQueryTableViewController` with Parse. It's a dead simple way of getting a table to show data from a Parse class.
 
